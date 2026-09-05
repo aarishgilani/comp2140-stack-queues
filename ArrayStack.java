@@ -21,7 +21,7 @@ public class ArrayStack<T> implements Stack<T> {
     }
     
     public T peek() {
-        // TODO: Implement this metho
+        // TODO: Implement this method
         throw new UnsupportedOperationException("Not supported yet.");
     }
     
